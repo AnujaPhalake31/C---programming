@@ -35,9 +35,9 @@ int main()
    const Demo obj2(11,21);
 
     obj1.fun();
-    obj1.gun(10,20);
+  //  obj1.gun(10,20);
 
-    obj2.fun();
+   // obj2.fun();
     obj2.gun(10,20);
 
     return 0;
