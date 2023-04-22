@@ -20,8 +20,7 @@ int main()
     typedef const int * CPTR;
     
     CPTR p = &no;
-    p = &no;
-
+   
     cout<<*p<<"\n";
 
     return 0;
